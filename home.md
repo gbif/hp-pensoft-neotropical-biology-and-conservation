@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Neotropical Biology and Conservation
+description: Browse data on GBIF associated with publications in Neotropical Biology and Conservation
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Lipińska MM, Barabasz C (2024) Pollination of Guatemalan orchids – state of knowledge. In: Lipińska M, Lopez-Selva MM, Sierra JM (Eds) Biodiversity research in Central America. Neotropical Biology and Conservation 19(2): 199-221. [https://doi.org/10.3897/neotropical.19.e119499](https://doi.org/10.3897/neotropical.19.e119499)"
 height: 75vh
 cta:
   - text: Datasets
